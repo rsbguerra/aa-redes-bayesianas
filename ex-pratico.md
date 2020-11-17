@@ -1,3 +1,4 @@
+a)
 i) 
 $P (B, I, M ) = P(B) P(I | b, m) P(M)$
 
